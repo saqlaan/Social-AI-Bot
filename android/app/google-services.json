@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614595551650",
+    "project_id": "cr8tr-mobile-app-v1",
+    "storage_bucket": "cr8tr-mobile-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614595551650:android:63144b718715a667c8d2fb",
+        "android_client_info": {
+          "package_name": "com.rnprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614595551650-tga7j6j6h47mhj5u0j5n7vkc5oq1o7h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1a8cd-rtcoNuzk17g1mHbbh5w2SeJSjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614595551650-tga7j6j6h47mhj5u0j5n7vkc5oq1o7h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

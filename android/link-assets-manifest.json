@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/theme/assets/fonts/klee_one_regular.ttf",
+      "sha1": "761ddaaf8e7ebcb462fab36a2f9519214e92d118"
+    },
+    {
+      "path": "src/theme/assets/fonts/klee_one_semibold.ttf",
+      "sha1": "7ed32ad4271d9e99987b60aebd4f0eddfb0290d9"
+    }
+  ]
+}

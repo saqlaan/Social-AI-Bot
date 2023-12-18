@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "full": "React Native rnprototype",
+    "initials": "RNB"
+  },
+  "others": {
+    "checkingOutYourPosts": "Checking out your posts...",
+    "checkingOutYouVideos": "Checking out your videos...",
+    "yes": "yes",
+    "tellMeMore": "tell me more",
+    "okayIWillTry": "OK I’ll try",
+    "shareFeedback": "share feedback"
+  }
+}
